@@ -19,9 +19,9 @@ pandoc:
     - mathjax
     - csl: ~/styles/plos.csl
     - bibliography: bibliography.bib
-
-
+exclude:
+  - build.sh
 permalink: /blog/:title/
 
 # Gems
-gems: [jekyll-paginate, jekyll-pandoc]
+gems: [jekyll-pandoc]

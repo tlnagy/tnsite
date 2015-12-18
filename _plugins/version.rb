@@ -14,8 +14,6 @@ module Jekyll
             parts = version.split(" ")
             site.data["ruby_ver"] = parts[1]
             site.data["os_ver"] = parts[-1][1...-1]
-            # Generate pdf
-            sh("pandoc", "cv.md", "-o", "assets/tamasnagy_cv.pdf")
         end
         
         def sh(*args)
