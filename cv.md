@@ -49,7 +49,8 @@ Heterogeneity and Cell Decision Making; Data Visualization;
 
 # Programming
 
-Python (numpy/scipy/pandas/scikit-learn), C/C++, Matlab, R, HTML/CSS/Javascript, \LaTeX
+Python (numpy/scipy/pandas/scikit-learn), C/C++, Julia, Matlab, R,
+HTML/CSS/Javascript, \LaTeX
 
 
 # Awards & Grants
