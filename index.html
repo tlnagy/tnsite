@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+<div class="post-list">
+    <ul>
+        {% for post in site.posts %}
+            <li>
+                <a href="{{ post.url }}">
+                    {{ post.title }}
+                </a>
+<!--                {% if page.revisions.size > 1 %}-->
+                <ver>v{{ post.page.title }}</ver>
+<!--                {% endif %}-->
+                <time>{{ post.date | date: '%Y-%m-%d' }}</time>
+            </li>
+        {% endfor %}
+    </ul>
+</div> <!-- .post-list -->

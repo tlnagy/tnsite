@@ -1,0 +1,27 @@
+# Site settings
+title: Tamas Nagy
+tagline: Bioinformatics graduate student at UCSF. Interested in systems biology, image analysis, math, mountains, etc
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl"
+  Bioinformatics graduate student at UCSF. Interested in systems biology, image analysis, math, mountains, photography, and more
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.tamasnagy.com" # the base hostname & protocol for your site
+twitter_username: tlngy
+github_user: tlnagy
+github_repo: tnsite
+
+# Build settings
+markdown: pandoc
+pandoc:
+  extensions:
+    - normalize
+    - smart
+    - mathjax
+    - csl: ~/styles/plos.csl
+    - bibliography: bibliography.bib
+
+
+permalink: /blog/:title/
+
+# Gems
+gems: [jekyll-paginate, jekyll-pandoc]
