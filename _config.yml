@@ -21,7 +21,7 @@ pandoc:
     - bibliography: bibliography.bib
 exclude:
   - build.sh
-permalink: /blog/:title/
+permalink: /:categories/:title/
 
 # Gems
 gems: [jekyll-pandoc]
