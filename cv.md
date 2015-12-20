@@ -2,24 +2,8 @@
 layout: cv
 geometry: margin=2.5cm
 fontsize: 12pt
-header-includes: 
- - \usepackage{hyperref}
 permalink: /cv/
 ---
-
-\hypersetup{breaklinks=true, 
-            bookmarks=true, 
-            pdfauthor={Tamas Nagy},
-            pdftitle={Tamas Nagy CV}, 
-            pdfsubject={Tamas Nagy's Curriculum Vitae}, 
-            colorlinks=true, 
-            citecolor=blue, 
-            urlcolor=Purple, 
-            linkcolor=purple}
-
-\Huge{Tamas L. Nagy}\
-
-\normalsize \newline
 
 University of California, San Francisco \
 Byers Hall \

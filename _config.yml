@@ -21,6 +21,7 @@ pandoc:
     - bibliography: bibliography.bib
 exclude:
   - build.sh
+  - cv_template.tex
 permalink: /:categories/:title/
 
 # Gems
