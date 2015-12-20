@@ -11,3 +11,9 @@ without several awesome open source projects including:
 - [FontAwesome](https://fortawesome.github.io/Font-Awesome) - icons
 - [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) - clean,
   readable font
+
+## Licensing
+
+The code is released under the MIT license, while the content is released
+under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+license.
