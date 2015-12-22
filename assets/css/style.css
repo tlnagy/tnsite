@@ -452,20 +452,20 @@ code {
 }
 
 /*==============================
-=            Style             =
+=           Photos             =
 ==============================*/
 
 #photos {
-   /* Prevent vertical gaps */
-   line-height: 0;
+    /* Prevent vertical gaps */
+    line-height: 0;
 
-   -webkit-column-count: 3;
-   -webkit-column-gap:   0px;
-   -moz-column-count:    3;
-   -moz-column-gap:      0px;
-   column-count:         3;
-   column-gap:           0px;
-    margin: 0 -5em;
+    -webkit-column-count: 1;
+    -webkit-column-gap:   0.5em;
+    -moz-column-count:    1;
+    -moz-column-gap:      0.5em;
+    column-count:         1;
+    column-gap:           0.5em;
+    margin-top: 2em;
 }
 
 #photos a{
@@ -473,35 +473,45 @@ code {
     width: 100%;
     cursor: pointer;
     position: relative;
+    margin-bottom: 0.5em;
 }
 
 #photos a img {
-  /* Just in case there are inline attributes */
+    /* Just in case there are inline attributes */
     width: 100% !important;
     height: auto !important;
 }
 
 #photos a .data {
-	position: absolute;
-	left: 1em;
-	top: 1em;
-	right: 1em;
-	bottom: 1em;
+    position: absolute;
+    left: 0.5em;
+    top: 0.5em;
+    right: 0.5em;
+    bottom: 0.5em;
     padding: 2em;
-	background: rgba(186, 186, 186, 0.4);
-	display: -webkit-flex;
-	display: -moz-flex;
-	display: -ms-flex;
-	display: flex;
-	-webkit-align-items: center;
-	-moz-align-items: center;
-	-ms-align-items: center;
+    background: rgba(0, 0, 0, 0.6);
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: flex;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
     align-items: center;
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(255, 255, 255, 0.5);
     opacity: 0;
 }
+
 #photos a:hover .data {
 	opacity: 1;
+}
+
+@media (min-width: 34em) {
+    #photos {
+    -webkit-column-count: 2;
+    -moz-column-count:    2;
+    column-count:         2;
+}
 }
 
 /*=================================================

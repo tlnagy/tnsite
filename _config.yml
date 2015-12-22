@@ -31,7 +31,7 @@ gems: [jekyll-pandoc]
 gallery:
   dir: photos
   title: "photos"
-  title_prefix: "photos: "
+  title_prefix: ""
   sort_field: "datetime"
   sort_photos: "title"
   thumbnail_size:
