@@ -2,29 +2,33 @@
 layout: page
 ---
 <style TYPE="text/css">
-.gallery-image-wrapper {
-  height: 300px;
-  width: 300px;
-  display: inline-block;
-  margin: 1em;
-  position: relative;
+#photos {
+   /* Prevent vertical gaps */
+   line-height: 0;
+   
+   -webkit-column-count: 2;
+   -webkit-column-gap:   0px;
+   -moz-column-count:    2;
+   -moz-column-gap:      0px;
+   column-count:         2;
+   column-gap:           0px;
 }
-.gallery-image {
-  margin: auto;
-  position: absolute;
-  top: 0px;
-  bottom: 0px;
-  max-height: 100%;
-  max-width: 100%;
+
+#photos img {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
 }
 </style>
 <h1><a href="/{{ site.gallery.dir }}">{{ page.title }}</a></h1>
-<hr />
+<section id="photos">
 {% for image in page.images %}
     <div class="gallery-image-wrapper">
         <a name="{{ image }}"></a>
         <a href="{{ image }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
             <img class="gallery-image" src="thumbs/{{ image }}" />
         </a>
+        
     </div>
 {% endfor %}
+</section>
