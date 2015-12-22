@@ -13,11 +13,41 @@ layout: page
    column-count:         2;
    column-gap:           0px;
 }
+    
+#photos a{
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    position: relative;
 
-#photos img {
+}
+
+#photos a img {
   /* Just in case there are inline attributes */
-  width: 100% !important;
-  height: auto !important;
+    width: 100% !important;
+    height: auto !important;
+}
+#photos a .data {
+	position: absolute;
+	left: 1em;
+	top: 1em;
+	right: 1em;
+	bottom: 1em;
+    padding: 2em;
+	background: rgba(186, 186, 186, 0.4);
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: flex;
+	-webkit-align-items: center;
+	-moz-align-items: center;
+	-ms-align-items: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.9);
+    opacity: 0;
+}
+#photos a:hover .data {
+	opacity: 1;
 }
 </style>
 <h1><a href="/{{ site.gallery.dir }}">{{ page.title }}</a></h1>
