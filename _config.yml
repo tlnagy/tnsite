@@ -27,3 +27,13 @@ permalink: /:categories/:title/
 
 # Gems
 gems: [jekyll-pandoc]
+
+gallery:
+  dir: photos
+  title: "photos"
+  title_prefix: "photos: "
+  sort_field: "date_time"
+  thumbnail_size:
+    x: 400
+    y: 400
+
