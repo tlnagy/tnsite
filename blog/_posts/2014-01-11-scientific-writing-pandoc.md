@@ -2,7 +2,6 @@
 title: "Scholarly Markdown for Scientific Writing "
 layout: post
 tags: [science, writing, markdown]
-categories: blog
 author: Tamas Nagy
 ---
 Scientific writing has come a long way since typewriters and stacks of handwritten reference cards. Robust reference managers, automatically generated bibliographies, and editable files are significant improvements. 

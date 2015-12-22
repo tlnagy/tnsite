@@ -3,7 +3,6 @@ title: Predicting Drug Candidate Promiscuity
 author: Tamas Nagy
 layout: post
 tags: [science, math]
-categories: blog
 --- 
 Last month, I gave a presentation to my chemistry seminar class on predicting the promiscuity of small-molecule drug candidates by comparing their structure to the sets of ligands that bind specific proteins. If a drug candidate strongly matches a set of ligands for a certain protein then there is a high probability that it will show off-target effects with that protein. Thus, if a candidate is compared against enough protein-ligand sets then it is likely that we can predict the side-effects of a drug before it enters clinical trials. Using this technique, Keiser et al. were able to identify potential reasons for side effects seen in commonly available drugs [@keiser_predicting_2009]. For example, they noticed that Rescriptor, an HIV reverse transcriptase inhibitor, matched the ligand sets of histamine receptors, which could explain the skin rashes observed in patients who were on the drug. They used a variant of the [Jaccard index](http://en.wikipedia.org/wiki/Jaccard_index) known as the Tanimoto coefficient to calculate the similarity between pairs of compounds:
 
