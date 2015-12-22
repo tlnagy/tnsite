@@ -50,15 +50,17 @@ layout: page
 	opacity: 1;
 }
 </style>
-<h1><a href="/{{ site.gallery.dir }}">{{ page.title }}</a></h1>
 <section id="photos">
-{% for image in page.images %}
-    <div class="gallery-image-wrapper">
-        <a name="{{ image }}"></a>
-        <a href="{{ image }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
-            <img class="gallery-image" src="thumbs/{{ image }}" />
-        </a>
-        
-    </div>
+{% for data in page.images %}
+    <a href="{{ data["image"] }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
+        <img src="thumbs/{{ data["image"] }}" />
+        <div class="data">
+            <div>
+            <p><i class="fa fa-camera-retro"></i> {{ data["model"] }}</p>
+            <p><i class="fa fa-clock-o"></i> {{ data["exposure"] }}</p>
+            <p><i class="fa fa-dot-circle-o"></i> {{ data["fstop"] }}</p>
+            </div>
+        </div>
+    </a>
 {% endfor %}
 </section>

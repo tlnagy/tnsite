@@ -121,22 +121,34 @@ module Jekyll
       end
 
       FileUtils.mkdir_p(thumbs_dir, :mode => 0755)
-      date_times = {}
+        
+      
       Dir.foreach(dir) do |image|
         next if image.chars.first == "."
         next unless image.downcase().end_with?(*$image_extensions)
-        @images.push(image)
         best_image = image
         @site.static_files << GalleryFile.new(site, base, File.join(@dest_dir, "thumbs"), image)
         image_path = File.join(dir, image)
-
+        
+        data = {}
+        data["image"] = image
         begin
-          date_times[image] = EXIFR::JPEG.new(image_path).date_time.to_i
+          data["datetime"] = EXIFR::JPEG.new(image_path).date_time.to_i
         rescue Exception => e
-          date_times[image] = 0
+          data["datetime"] = 0
           puts "Error getting date_time for #{image}: #{e}"
         end
-
+        begin
+            data["model"] = EXIFR::JPEG.new(image_path).model.strip
+            data["exposure"] = EXIFR::JPEG.new(image_path).exposure_time.to_s
+            data["fstop"] = "f"+EXIFR::JPEG.new(image_path).f_number.to_f.to_s
+        rescue Exception => e
+            data["model"] = "N/A"
+            data["exposure"] = "1/inf"
+            data["fstop"] = "f0.0"
+        end
+        @images.push(data)
+          
         if symlink
           link_src = site.in_source_dir(image_path)
           link_dest = site.in_dest_dir(image_path)
@@ -176,13 +188,7 @@ module Jekyll
 
       begin
         sort_field = config["sort_photos"] || "date_time"
-        @images.sort! {|a,b|
-          if sort_field[a] == sort_field[b]
-            a <=> b
-          else
-            sort_field[a] <=> sort_field[b]
-          end
-        }
+        @images = @images.sort_by { |data| data[:image] }
         if gallery_config["sort_reverse"]
           @images.reverse!
         end
