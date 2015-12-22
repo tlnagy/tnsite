@@ -175,11 +175,12 @@ module Jekyll
       end
 
       begin
+        sort_field = config["sort_photos"] || "date_time"
         @images.sort! {|a,b|
-          if date_times[a] == date_times[b]
+          if sort_field[a] == sort_field[b]
             a <=> b
           else
-            date_times[a] <=> date_times[b]
+            sort_field[a] <=> sort_field[b]
           end
         }
         if gallery_config["sort_reverse"]

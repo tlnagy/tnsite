@@ -32,7 +32,8 @@ gallery:
   dir: photos
   title: "photos"
   title_prefix: "photos: "
-  sort_field: "date_time"
+  sort_field: "datetime"
+  sort_photos: "title"
   thumbnail_size:
     x: 400
     y: 400
