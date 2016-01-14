@@ -17,7 +17,6 @@ pandoc:
     - normalize
     - smart
     - mathjax
-    - csl: plos.csl
     - bibliography: bibliography.bib
 exclude:
   - build.sh
