@@ -14,7 +14,7 @@ sudo apt-get install ruby ruby-dev git imagemagick libmagickwand-dev pandoc pand
 ```
 
 If using an older version of jekyll (<3) then also install a valid
-Javascript runtime like NodeJS:
+Javascript runtime like NodeJS[^1]:
 
 ```
 sudo apt-get install nodejs
@@ -27,7 +27,7 @@ sudo gem install jekyll -v 2.5.1
 sudo gem install exifr rmagick jekyll-pandoc
 ```
 
-Finally clone the git repo and build the site[^1]:
+Finally clone the git repo and build the site[^2]:
 
 ```
 git clone https://github.com/tlnagy/tnsite.git
@@ -37,5 +37,8 @@ jekyll serve
 
 Voilà
 
-[^1]: This might crash due to a missing `photos/` directory. See
+[^1]: This is still required to build this site until I fix
+<https://github.com/tlnagy/tnsite/issues/3>
+
+[^2]: This might crash due to a missing `photos/` directory. See
 <https://github.com/tlnagy/tnsite/issues/1>
