@@ -12,6 +12,12 @@ without several awesome open source projects including:
 - [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) - clean,
   readable font
 
+## Building
+
+See my post [here](http://tamasnagy.com/blog/building-jekyll-site-debian/)
+to get it up and running on Debian. Other POSIX compliant systems should
+be similar.
+
 ## Licensing
 
 The code is released under the MIT license, while the content is released
