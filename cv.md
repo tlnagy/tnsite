@@ -43,7 +43,7 @@ HTML/CSS/Javascript, \LaTeX
 
 
 *2014* **Undergraduate Research Abroad Scholar** w/Lucas Pelkmans,
-University of Kentucky
+University of Zurich (UZH)
 
 *2013* **AMGEN/CRSB Fellow** w/Jennifer Doudna, University of
 California, Berkeley
