@@ -78,6 +78,8 @@ Spatiotemporal Imaging of Endogeneous RNA," AMGEN symposium, Berkeley, CA
 
 # References (Alphabetical)
 
+Steven J. Altschuler, UCSF, steven.altschuler [at] ucsf.edu
+
 Jennifer A. Doudna, UC Berkeley, doudna [at] berkeley.edu
 
 Rebecca E. Dutch, University of Kentucky, rdutc2 [at] uky.edu
@@ -89,3 +91,5 @@ Hunter Moseley, University of Kentucky, hunter.moseley [at] uky.edu
 Lucas Pelkmans, University of Zurich, lucas.pelkmans [at] imls.uzh.ch
 
 Orion Weiner, UCSF, orion.weiner [at] ucsf.edu
+
+Lani Wu, UCSF, lani.wu [at] ucsf.edu
