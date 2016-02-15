@@ -27,7 +27,7 @@ sudo gem install jekyll -v 2.5.1
 sudo gem install exifr rmagick jekyll-pandoc
 ```
 
-Finally clone the git repo and build the site[^2]:
+Finally clone the git repo and build the site:
 
 ```
 git clone https://github.com/tlnagy/tnsite.git
@@ -39,6 +39,3 @@ Voilà
 
 [^1]: This is still required to build this site until I fix
 <https://github.com/tlnagy/tnsite/issues/3>
-
-[^2]: This might crash due to a missing `photos/` directory. See
-<https://github.com/tlnagy/tnsite/issues/1>
