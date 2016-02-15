@@ -216,6 +216,7 @@ module Jekyll
     def generate(site)
       config = site.config["gallery"] || {}
       dir = config["dir"] || "photos"
+      Dir.mkdir(dir) unless File.exists?(dir)
       galleries = []
       original_dir = Dir.getwd
       Dir.chdir(site.source)
