@@ -9,7 +9,7 @@ layout: default
 <section id="photos">
 {% for data in page.images %}
     <a href="{{ data["image"] }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
-        <img src="thumbs/{{ data["image"] }}" />
+        <img class="gallerythumb" src="thumbs/{{ data["image"] }}" />
         <div class="data">
             <div>
             <p><i class="fa fa-camera-retro"></i> {{ data["model"] }}</p>
