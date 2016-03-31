@@ -3,7 +3,10 @@
 $if(fontfamily)$
 \usepackage[$fontfamilyoptions$]{$fontfamily$}
 $else$
-\usepackage{lmodern}
+\usepackage{fbb}
+\usepackage[libertine]{newtxmath}
+\usepackage[italic]{mathastext}
+\MTsetmathskips{f}{5mu}{1mu}
 $endif$
 $if(linestretch)$
 \usepackage{setspace}
