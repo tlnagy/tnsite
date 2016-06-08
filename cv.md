@@ -6,9 +6,9 @@ permalink: /cv/
 ---
 
 University of California, San Francisco \
-Byers Hall \
-1700 4th St. Ste. 214 \
-San Francisco, CA 94158
+Cardiovascular Research Building, Room 384, MC 3120\
+555 Mission Bay Blvd. South\
+San Francisco, CA 94158-9001
 
 
 Email: tamas [at] tamasnagy.com\
@@ -29,13 +29,11 @@ Kentucky, Lexington
 # Research Interests
 
 Systems Biology & Computational Biology; Machine Vision; Cell-to-Cell
-Heterogeneity and Cell Decision Making; Data Visualization; 
+Heterogeneity and Cell Decision Making; Data Visualization
 
 # Programming
 
-Python (numpy/scipy/pandas/scikit-learn), C/C++, Julia, Matlab, R,
-HTML/CSS/Javascript, \LaTeX
-
+Julia, Python, C/C++, Matlab, R, HTML/CSS/Javascript, \LaTeX
 
 # Awards & Grants
 
@@ -51,7 +49,7 @@ California, Berkeley
 *2011---2015* **Chellgren Fellow**, University of Kentucky
 
 *2011---2015* **Otis A. Singletary Scholar**, University of Kentucky
-(Tuition & Board)
+(Tuition, Board, & stipend)
 
 
 # Talks & Posters
@@ -85,6 +83,8 @@ Jennifer A. Doudna, UC Berkeley, doudna [at] berkeley.edu
 Rebecca E. Dutch, University of Kentucky, rdutc2 [at] uky.edu
 
 Jerzy Jaromczyk, University of Kentucky, jurek [at] cs.uky.edu
+
+Martin Kampmann, UCSF, martin.kampmann [at] ucsf.edu
 
 Hunter Moseley, University of Kentucky, hunter.moseley [at] uky.edu
 
