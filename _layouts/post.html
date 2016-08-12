@@ -11,6 +11,12 @@ layout: default
     <article class="post-content">
         {{ content }}
     </article>
+    
+    <li id="taglist">
+    {% for tag in page.tags %}
+        <a href='{{ site.baseurl}}/tags/#{{tag | downcase | replace:" ","-" }}'>{{tag | downcase | replace:" ","-" }}</a>
+    {% endfor %}
+    </li>
 
     {% include revision.html %}
 

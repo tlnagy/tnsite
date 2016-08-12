@@ -2,6 +2,7 @@
 title: Building this Jekyll site on Debian 8
 author: Tamas Nagy
 layout: post
+tags: [meta, linux]
 ---
 
 One of my goals with the redesign was to improve the portability of my
