@@ -11,7 +11,7 @@ github_user: tlnagy
 github_repo: tnsite
 
 # Build settings
-markdown: pandoc
+markdown: Pandoc
 pandoc:
   extensions:
     - normalize
