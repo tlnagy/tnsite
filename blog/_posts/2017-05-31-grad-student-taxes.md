@@ -38,13 +38,19 @@ Yes. In my opinion, the easiest and best way to do this to
 [set up estimated tax payments](https://www.irs.gov/uac/pay-taxes-by-electronic-funds-withdrawal)
 when you e-file. Your bank account is debited according to whatever
 estimated tax plan you submit. This is also nice because you do not have to pay
-the penalty for failing to withhold income[^4].
+the penalty for failing to withhold income[^4]. Make sure to set up payments to
+both the IRS and California's Franchise Tax Board. This should be quite easy if
+you are setting this up during e-filing.
 
 ### Can we contribute to a Roth IRA?
 
 Unfortunately, to the best of my knowledge, we cannot. Since the money we make on a
-1098t is considered taxable, unearned income it does not qualify for IRA. However,
-the moment you are switched to a W2, you can contribute up to your earned
+1098t is considered taxable, unearned income it does not qualify for IRA. According
+to [IRS Pub 590-A](https://www.irs.gov/pub/irs-pdf/p590a.pdf) (Page 6):
+
+> Scholarship and fellowship payments are compensation for IRA purposes only if shown in box 1 of Form W-2
+
+However, the moment you are switched to a W-2, you can contribute up to your earned
 income amount or $5500, which ever is smaller.
 
 ### What is a Roth IRA?
@@ -68,7 +74,9 @@ for more details.
 [^1]: So YMMV on all this depending on your specific circumstances
 
 [^2]: This post was inspired by a presentation by Kyle Barlow at iPQB journal
-club. Thanks Kyle!
+club. Thanks Kyle! Update: After I wrote this piece, I found out that Kyle also
+had a blog post about this a couple years ago:
+<https://www.kylebarlow.com/dearth-and-taxes.html>
 
 [^3]: Naturally, this value will increase if the UCSF graduate student stipend
 increases. For reference, in my first two years, we made 34K (TY2015) and then
