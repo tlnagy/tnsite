@@ -10,11 +10,11 @@ title: tags
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-<a class="tagname" name='{{t | downcase | replace:" ","-" }}'>{{t | downcase | replace:" ","-" }}</a>
+<a class="tagname" name='{{t | downcase | replace:" ","-" }}'>{{t | downcase | replace:" ","-" }}:</a>
 <ul class="taglistpage">
 {% for post in posts %}
   {% if post.tags contains t %}
-    
+
 <div class="post-list">
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>

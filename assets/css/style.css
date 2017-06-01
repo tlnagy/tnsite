@@ -222,11 +222,11 @@ h1 {
     margin-bottom: 0;
 }
 
-.post-link {
+.post-list a {
     text-decoration: none;
 }
 
-.post-link:hover {
+.post-list a:hover {
     text-decoration: underline;
 }
 
@@ -306,15 +306,16 @@ code {
 }
 
 .taglistpage{
-list-style: none
+    list-style: none
 }
 
 .tagname{
     text-decoration: none;
+    font-weight: bold;
 }
 
 #hometaglink {
-    margin: 1em 0 -2em 0;
+    margin: 2em 0 -2em 0;
     text-align: center;
     float: none;
 }
@@ -324,12 +325,12 @@ list-style: none
         float: right;
         clear: none;
     }
-    
+
     .post-list ver {
         float: right;
         clear: none;
     }
-    
+
     .postNav .prev,
     .postNav .next {
         width: 50%
@@ -457,7 +458,7 @@ list-style: none
 
 .revision{
     padding-top: 2em;
-    font-size: .75em;  
+    font-size: .75em;
     font-weight: 300;
 }
 
