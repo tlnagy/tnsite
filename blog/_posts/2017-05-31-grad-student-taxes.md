@@ -13,7 +13,8 @@ I think I would have appreciated knowing the answers to in my first two years[^2
 ### Do we have to pay taxes?
 
 Yes, both state and federal. The tricky part is that while you are paid by UCSF
-on a 1098t nothing is withheld so you have pay the full amount come April.
+on a 1098-T form (normally for your first two years) nothing is withheld for taxes
+so you have pay the full amount come April.
 
 ### How much should I set aside each month for taxes?
 
@@ -23,7 +24,14 @@ situation. I would probably aim for $425.
 Now assuming that you did not have any external income, you should expect to pay
 roughly $2000[^3] in your first year since you are only taxed for October, November, and
 December. 2nd year you have to pay for the entire year and this works out to
-being close to $5000. It's a lot if you're not ready for it.
+being close to $4800. It's a lot if you're not ready for it.
+
+### How much do I actually owe?
+
+In the simplest case, your "taxable income" is simply the difference between
+box 5 and box 1 on your 1098-T form. This value will be higher than your stipend
+since it includes the "taxable" contributions to our health insurance, UC SHIP.
+You can find your 1098-T at <https://1098t.com>.
 
 ### How do I e-file for free?
 
@@ -45,7 +53,7 @@ you are setting this up during e-filing.
 ### Can we contribute to a Roth IRA?
 
 Unfortunately, to the best of my knowledge, we cannot. Since the money we make on a
-1098t is considered taxable, unearned income it does not qualify for IRA. According
+1098-T is considered taxable, unearned income it does not qualify for IRA. According
 to [IRS Pub 590-A](https://www.irs.gov/pub/irs-pdf/p590a.pdf) (Page 6):
 
 > Scholarship and fellowship payments are compensation for IRA purposes only if shown in box 1 of Form W-2
