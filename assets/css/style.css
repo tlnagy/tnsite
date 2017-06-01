@@ -36,7 +36,7 @@ body {
 
 
 html {
-    font-family: 'open_sansregular', sans-serif;
+    font-family: 'opensans_regular', sans-serif;
     font-size: 14px;
     background: #fafafa;
     color: #333;
@@ -303,6 +303,15 @@ code {
     background: #fffacf;
     padding: 2em;
     margin-bottom: 3em;
+}
+
+.cv strong{
+    font-family: 'opensans_bold', 'opensans_regular';
+}
+
+.cv em{
+    font-family: 'opensans_italic', 'opensans_regular';
+    margin-right: 0.25em;
 }
 
 .taglistpage{
@@ -608,7 +617,7 @@ code {
 
 
 @font-face {
-    font-family: 'open_sansregular';
+    font-family: 'opensans_regular';
     src: url('../fonts/opensans-regular-webfont.eot');
     src: url('../fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/opensans-regular-webfont.woff2') format('woff2'),
@@ -617,5 +626,16 @@ code {
          url('../fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
     font-weight: normal;
     font-style: normal;
+}
 
+@font-face {
+    font-family: 'opensans_bold';
+    src: url("../fonts/opensans-bold-webfont.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'opensans_italic';
+    src: url("../fonts/opensans-italic-webfont.ttf");
+    font-style: italic;
 }
