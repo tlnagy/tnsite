@@ -52,7 +52,21 @@ California, Berkeley
 (Tuition, Board, & stipend)
 
 
+# Publications
+
+Webb, S., Nagy, T., Moseley, H., Fried, M., & Dutch, R. E. (2017). Hendra virus fusion protein transmembrane domain contributes to pre-fusion protein stability. The Journal of Biological Chemistry. https://doi.org/10.1074/jbc.M117.777235
+
+
+# Pre-prints
+
+Nagy, T., & Kampmann, M. (2017, March 22). CRISPulator: A Discrete Simulation Tool For Pooled Genetic Screens. bioRxiv. https://doi.org/10.1101/119131
+
+
 # Talks & Posters
+
+*2016* "Leveraging CRISPR for Precision Biology", Workshop with Jacob Corn and
+Martin Kampmann, American Society for Cell Biology Annual Meeting, San Francisco,
+CA
 
 *2014* "Investigating the Expanding Role of Transmembrane Domains in
 Enveloped Virus Entry," Bioinformatics Summit, UT-KBRIN, Lake Barkley, KY
@@ -66,6 +80,7 @@ Spatiotemporal Imaging of Endogeneous RNA," AMGEN symposium, Berkeley, CA
 
 # Service
 
+*2017* Teaching Assistant, Algorithms, University of California, San Francisco
 
 *2014* Teaching Assistant, Organic Chemistry II, University of Kentucky
 
