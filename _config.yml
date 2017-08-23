@@ -25,7 +25,9 @@ exclude:
 permalink: /:categories/:title/
 
 # Gems
-gems: [jekyll-pandoc]
+plugins:
+  - jekyll-pandoc
+  - jekyll-gallery-generator
 
 gallery:
   dir: photos
@@ -36,4 +38,3 @@ gallery:
   thumbnail_size:
     x: 400
     y: 400
-
