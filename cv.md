@@ -54,7 +54,7 @@ California, Berkeley
 
 # Publications
 
-**Nagy, T.**, & Kampmann, M. (2017). CRISPulator: a discrete simulation tool for pooled genetic screens. BMC Bioinformatics, 18(1), 347. https://doi.org/10.1186/s12859-017-1759-9 Preprint: https://doi.org/10.1101/119131
+**Nagy, T.**, & Kampmann, M. (2017). CRISPulator: a discrete simulation tool for pooled genetic screens. BMC Bioinformatics, 18(1), 347. <https://doi.org/10.1186/s12859-017-1759-9> Preprint: <https://doi.org/10.1101/119131>
 
 Webb, S., **Nagy, T.**, Moseley, H., Fried, M., & Dutch, R. E. (2017). Hendra virus fusion protein transmembrane domain contributes to pre-fusion protein stability. The Journal of Biological Chemistry. <https://doi.org/10.1074/jbc.M117.777235>
 
