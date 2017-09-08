@@ -4,6 +4,8 @@ title: about
 permalink: /about/
 ---
 
+{% avatar tlnagy size=200 %}
+
 Hi, I'm Tamas. I'm a graduate student in the
 [Biomedial Informatics](http://bmi.ucsf.edu) Program at UCSF working in
 [Orion Weiner](http://cvri.ucsf.edu/~weiner/)'s lab on the role

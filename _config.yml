@@ -28,6 +28,7 @@ permalink: /:categories/:title/
 plugins:
   - jekyll-pandoc
   - jekyll-gallery-generator
+  - jekyll-avatar
 
 gallery:
   dir: photos
