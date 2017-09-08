@@ -4,3 +4,6 @@ _drafts/
 
 # autogen file
 assets/tamasnagy_cv.pdf
+
+# ruby
+Gemfile.lock

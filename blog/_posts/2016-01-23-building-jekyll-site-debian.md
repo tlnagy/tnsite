@@ -10,33 +10,33 @@ site's stack. It's now pretty simple getting it to work on a fresh Linux
 install. For example, on [Debian Jessie](https://debian.org), install the
 following packages:
 
-``` 
+```
 sudo apt-get install ruby ruby-dev git imagemagick libmagickwand-dev pandoc pandoc-citeproc
 ```
 
-If using an older version of jekyll (<3) then also install a valid
-Javascript runtime like NodeJS[^1]:
+then install [bundler](http://bundler.io/)
 
 ```
-sudo apt-get install nodejs
+sudo gem install bundler
 ```
 
-then install all the required Ruby gems:
-
-```
-sudo gem install jekyll -v 2.5.1
-sudo gem install exifr rmagick jekyll-pandoc
-```
-
-Finally clone the git repo and build the site:
+Next, clone the git repo and navigate into the directory
 
 ```
 git clone https://github.com/tlnagy/tnsite.git
 cd tnsite
-jekyll serve
+```
+
+and run bundler to install all ruby dependencies
+
+```
+bundle
+```
+
+Finally, build and serve the website with Jekyll:
+
+```
+jekyll serve -wi
 ```
 
 Voilà
-
-[^1]: This is still required to build this site until I fix
-<https://github.com/tlnagy/tnsite/issues/3>
