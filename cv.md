@@ -37,8 +37,9 @@ Julia, Python, C/C++, Matlab, R, HTML/CSS/Javascript, \LaTeX
 
 # Awards & Grants
 
-*2015* **NSF Graduate Research Fellow**, National Science Foundation
+*2017* **Moritz-Heyman Discovery Fellow**, University of California, San Francisco
 
+*2015* **NSF Graduate Research Fellow**, National Science Foundation
 
 *2014* **Undergraduate Research Abroad Scholar** w/Lucas Pelkmans,
 University of Zurich (UZH)
