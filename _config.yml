@@ -22,6 +22,9 @@ exclude:
   - build.sh
   - cv_template.tex
   - README.md
+  - Gemfile
+  - Gemfile.lock
+
 permalink: /:categories/:title/
 
 # Gems
