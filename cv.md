@@ -37,12 +37,14 @@ Julia, Python, C/C++, Matlab, R, HTML/CSS/Javascript, \LaTeX
 
 # Awards & Grants
 
+*2017* **Graduate Division TA award for BMI 203, Algorithms**, University of California, San Francisco
+
 *2017* **Moritz-Heyman Discovery Fellow**, University of California, San Francisco
 
 *2015* **NSF Graduate Research Fellow**, National Science Foundation
 
 *2014* **Undergraduate Research Abroad Scholar** w/Lucas Pelkmans,
-University of Zurich (UZH)
+University of Zurich
 
 *2013* **AMGEN/CRSB Fellow** w/Jennifer Doudna, University of
 California, Berkeley
