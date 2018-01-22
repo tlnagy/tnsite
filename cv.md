@@ -33,7 +33,7 @@ Heterogeneity and Cell Decision Making; Data Visualization
 
 # Programming
 
-Julia, Python, C/C++, Matlab, R, HTML/CSS/Javascript, \LaTeX
+Julia, Python, HTML/CSS/Javascript, \LaTeX
 
 # Awards & Grants
 
@@ -78,6 +78,8 @@ Spatiotemporal Imaging of Endogeneous RNA," AMGEN symposium, Berkeley, CA
 
 
 # Service
+
+*2018* Teaching Assistant, Algorithms, University of California, San Francisco
 
 *2017* Teaching Assistant, Algorithms, University of California, San Francisco
 
