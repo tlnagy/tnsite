@@ -27,6 +27,7 @@ also had two summer internships: one as an AMGEN scholar in
 <i class="fa fa-envelope fa-fw"></i> <span style="unicode-bidi:bidi-override; direction: rtl;">moc.ygansamat@samat</span><br>
 <i class="fa fa-lock fa-fw"></i> <a href="/misc/Tamas_Nagy_604EA988.asc">Tamas_Nagy_604EA988.asc</a><br>
 <i class="fa fa-twitter fa-fw"></i> [\@tlngy](https://twitter.com/tlngy)<br>
+<i class="fa fa-instagram fa-fw"></i> [\@tlngy](https://instagram.com/tlngy)<br>
 <i class="fa fa-github fa-fw"></i> [\@tlnagy](https://github.com/tlnagy/)<br>
 
 
