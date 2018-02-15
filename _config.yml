@@ -14,8 +14,6 @@ github_repo: tnsite
 markdown: Pandoc
 pandoc:
   extensions:
-    - normalize
-    - smart
     - mathjax
     - bibliography: bibliography.bib
 exclude:
