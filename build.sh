@@ -16,7 +16,7 @@ function cleanup {
 trap cleanup EXIT
 
 # build site
-jekyll build
+bundle exec jekyll build
 
 # rebuilds pdf if needed
 if [ cv.md -nt "$0" ] || [ ! -f _site/assets/tamasnagy_cv.pdf ]; then
