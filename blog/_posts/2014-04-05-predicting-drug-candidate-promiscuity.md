@@ -25,10 +25,10 @@ where $N_db$ is the number of set comparisons made while searching the database.
 The full presentation can be found below.
 
 <div class="bigspacer"></div>
-<center><iframe src="http://www.slideshare.net/slideshow/embed_code/33171714" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></center>
+<center><iframe src="https://www.slideshare.net/slideshow/embed_code/33171714" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></center>
 <div class="bigspacer"></div>
 
 <script type="text/javascript"
-src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ## References

@@ -31,6 +31,6 @@ I implemented the code using Python 3, NumPy, SciPy, and Matplotlib and it is av
 ![However, they start to coalesce into a grid of vortices](/assets/images/2017-09-07-microtubule-vortices/mt_vortices.gif)
 
 <script type="text/javascript"
-src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ## References

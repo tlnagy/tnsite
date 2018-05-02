@@ -3,7 +3,7 @@
 Code for generating my personal blog. This blog would not be possible
 without several awesome open source projects including:
 
-- [Jekyll](http://jekyllrb.com) - static site generator
+- [Jekyll](https://jekyllrb.com) - static site generator
 - [Pandoc](http://pandoc.org) - the markup conversion swiss-army knife
   (indispensable)
 - [jekyll-pandoc](https://github.com/mfenner/jekyll-pandoc) - to make the previous two play nice
@@ -14,7 +14,7 @@ without several awesome open source projects including:
 
 ## Building
 
-See my post [here](http://tamasnagy.com/blog/building-jekyll-site-debian/)
+See my post [here](https://tamasnagy.com/blog/building-jekyll-site-debian/)
 to get it up and running on Debian. Other POSIX compliant systems should
 be similar.
 

@@ -13,7 +13,7 @@ San Francisco, CA 94158-9001
 
 Email: tamas [at] tamasnagy.com\
 Twitter: [\@tlngy](https://twitter.com/tlngy)\
-Website: [http://www.tamasnagy.com](www.tamasnagy.com)
+Website: <https://tamasnagy.com>
 
 
 
