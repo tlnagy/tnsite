@@ -8,7 +8,7 @@ Here's a list of books that I have read or am currently reading:
 
 #### In progress
 
-- **The Main Enemy: The Inside Story of the CIA's Final Showdown with the KGB** by _Milton Bearden and James Risen_
+- **How Not to Be Wrong: The Power of Mathematical Thinking** by _Jordan Ellenberg_
 
 #### To Read
 
@@ -24,3 +24,5 @@ Here's a list of books that I have read or am currently reading:
 > Radicalism usually prospers in the gap between rising expectations and declining opportunities. This is especially true where the population is young, idle, and bored; where the art is impoverished; where entertainment—movies, theater, music—is policed or absent altogether; and where young men are set apart from the consoling and socializing presence of women.
 >
 > \- The Looming Tower, pg 107
+
+- **The Main Enemy: The Inside Story of the CIA's Final Showdown with the KGB** by _Milton Bearden and James Risen_
