@@ -63,6 +63,10 @@ Webb, S., **Nagy, T.**, Moseley, H., Fried, M., & Dutch, R. E. (2017). Hendra vi
 
 # Talks & Posters
 
+*2018* "Active control of cell volume during immune cell migration", 2018
+Training Grantees Meeting, National Institute of Biomedical Imaging and
+Bioengineering, Bethesda, MD
+
 *2016* "Leveraging CRISPR for Precision Biology", Workshop with Jacob Corn and
 Martin Kampmann, American Society for Cell Biology Annual Meeting, San Francisco,
 CA
