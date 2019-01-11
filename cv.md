@@ -16,7 +16,6 @@ Twitter: [\@tlngy](https://twitter.com/tlngy)\
 Website: <https://tamasnagy.com>
 
 
-
 # Education
 
 *2015---*    Graduate student, Biomedical Informatics, University of
@@ -31,9 +30,6 @@ Kentucky, Lexington
 Systems Biology & Computational Biology; Machine Vision; Cell-to-Cell
 Heterogeneity and Cell Decision Making; Data Visualization
 
-# Programming
-
-Julia, Python, HTML/CSS/Javascript, \LaTeX
 
 # Awards & Grants
 
@@ -57,11 +53,39 @@ California, Berkeley
 
 # Publications
 
+Saha, S., **Nagy, T. L.** & Weiner, O. D. Joining forces: crosstalk between
+biochemical signalling and physical forces orchestrates cellular polarity and
+dynamics. Philos. Trans. R. Soc. Lond. B Biol. Sci. 373, (2018). <https://doi.org/10.1098/rstb.2017.0145>
+
 **Nagy, T.**, & Kampmann, M. (2017). CRISPulator: a discrete simulation tool for pooled genetic screens. BMC Bioinformatics, 18(1), 347. <https://doi.org/10.1186/s12859-017-1759-9> Preprint: <https://doi.org/10.1101/119131>
 
-Webb, S., **Nagy, T.**, Moseley, H., Fried, M., & Dutch, R. E. (2017). Hendra virus fusion protein transmembrane domain contributes to pre-fusion protein stability. The Journal of Biological Chemistry. <https://doi.org/10.1074/jbc.M117.777235>
+Webb, S., **Nagy, T.**, Moseley, H., Fried, M., & Dutch, R. E. (2017). Hendra
+virus fusion protein transmembrane domain contributes to pre-fusion protein
+stability. The Journal of Biological Chemistry.
+<https://doi.org/10.1074/jbc.M117.777235>
+
+
+# Software
+
+I develop or maintain the following open-source libraries:
+
+- [`Gadfly.jl`](https://github.com/GiovineItalia/Gadfly.jl): Premier grammar of
+  graphics library in the Julia language
+- [`Weave.jl`](https://github.com/mpastell/Weave.jl): Literate programming
+  environment for Julia; generate reproducible scientific reports
+- [`Crispulator.jl`](https://github.com/tlnagy/Crispulator.jl): Simulation tool
+  for designing pooled CRISPR screens
+- [`OMETIFF.jl`](https://github.com/tlnagy/OMETIFF.jl): Read and interact with
+  high-dimensional images
+- [`jekyll-lab-notebook`](https://github.com/tlnagy/jekyll-lab-notebook):
+  Simple and flexible electronic lab notebook based on the Jekyll static site generator
+
 
 # Talks & Posters
+
+*2018* "Dissecting the mechanistic basis of the chemoattractant-induced volume
+increase in neutrophils", 2018 Ion Channels & Immunity Symposium, NYU Langone
+Health, New York City, NY
 
 *2018* "Active control of cell volume during immune cell migration", 2018
 Training Grantees Meeting, National Institute of Biomedical Imaging and
