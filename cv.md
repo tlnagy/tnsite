@@ -11,7 +11,7 @@ Cardiovascular Research Building, Room 384, MC 3120\
 San Francisco, CA 94158-9001
 
 
-Email: tamas [at] tamasnagy.com\
+Email: iam [at] tamasnagy.com\
 Twitter: [\@tlngy](https://twitter.com/tlngy)\
 Website: <https://tamasnagy.com>
 
@@ -33,7 +33,7 @@ Heterogeneity and Cell Decision Making; Data Visualization
 
 # Awards & Grants
 
-*2017* **Graduate Division TA award for BMI 203, Algorithms**, University of California, San Francisco
+*2017* **Graduate Division TA Award**, University of California, San Francisco
 
 *2017* **Moritz-Heyman Discovery Fellow**, University of California, San Francisco
 
@@ -82,6 +82,10 @@ I develop or maintain the following open-source libraries:
 
 
 # Talks & Posters
+
+*2019* "Dissecting the mechanistic basis of the chemoattractant-induced volume
+increase in neutrophils", 2019 Gordon Research Conference on Directed Cell 
+Migration, Galveston, TX
 
 *2018* "Dissecting the mechanistic basis of the chemoattractant-induced volume
 increase in neutrophils", 2018 Ion Channels & Immunity Symposium, NYU Langone
