@@ -45,9 +45,9 @@ University of Zurich
 *2013* **AMGEN/CRSB Fellow** w/Jennifer Doudna, University of
 California, Berkeley
 
-*2011---2015* **Chellgren Fellow**, University of Kentucky
+*2012* **Chellgren Fellow**, University of Kentucky
 
-*2011---2015* **Otis A. Singletary Scholar**, University of Kentucky
+*2011* **Otis A. Singletary Scholar**, University of Kentucky
 (Tuition, Board, & stipend)
 
 
