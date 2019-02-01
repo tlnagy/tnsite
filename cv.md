@@ -62,7 +62,7 @@ genetic screens. *BMC Bioinformatics* 18, 347 (2017). <https://doi.org/10.1186/s
 
 Webb, S., **Nagy, T.**, Moseley, H., Fried, M. & Dutch, R. E. Hendra virus 
 fusion protein transmembrane domain contributes to pre-fusion protein stability. 
-*J. Biol. Chem.* (2017). doi:10.1074/jbc.M117.777235
+*J. Biol. Chem.* (2017). <https://doi.org/10.1074/jbc.M117.777235>
 
 
 # Software
