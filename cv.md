@@ -53,6 +53,11 @@ California, Berkeley
 
 # Publications
 
+Graziano, B. R., Town, J. P., Sitarska, E., **Nagy, T. L.**, Fošnarič, M., Penič, S., 
+Iglič, A., Kralj-Iglič, V., Gov, N. S., Diz-Muñoz, A., & Weiner, O. D. (2019). Cell 
+confinement reveals a branched-actin independent circuit for neutrophil polarity. 
+PLoS Biology, 17(10), e3000457. <https://doi.org/10.1371/journal.pbio.3000457>
+
 Saha, S., **Nagy, T. L.** & Weiner, O. D. Joining forces: crosstalk between
 biochemical signalling and physical forces orchestrates cellular polarity and
 dynamics. *Philos. Trans. R. Soc. Lond. B Biol. Sci.* 373, (2018). <https://doi.org/10.1098/rstb.2017.0145>
@@ -82,6 +87,9 @@ I develop or maintain the following open-source libraries:
 
 
 # Talks & Posters
+
+*2020* "Leveraging Julia for Data Science", invited speaker, 2020 Computational Biology 
+Skills Seminar, UC Berkeley, remote
 
 *2019* "Dissecting the mechanistic basis of the chemoattractant-induced volume
 increase in neutrophils", 2019 Gordon Research Conference on Directed Cell 
