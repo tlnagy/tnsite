@@ -7,29 +7,30 @@ permalink: /cv/
 
 University of California, Los Angeles \
 615 Charles E Young Dr S\
-BSRB Rm 454
+BSRB Rm 454\
 Los Angeles, CA 90095
 
 
 Email: iam [at] tamasnagy.com\
 Website: <https://tamasnagy.com>
 
-
-# Education
+# Current Position
 
 *2023---* **Postdoctoral Scholar**, Neurology, Univ. of
 California, Los Angeles\medskip\
 \ \ \ \ \ \ \ Topic: "How do Satellite Cells Count? Information Processing in Motile Cellular Collectives"\
-\ \ \ \ \ Advisor: [Thomas A. Rando, Ph.D.](https://randolab.healthsciences.ucla.edu/)
+\ \ \ \ \ Advisor: [Thomas A. Rando, M.D., Ph.D.](https://randolab.healthsciences.ucla.edu/)
 
-*2024* **Attendee**, Physiology: Modern Cell Biology Using Microscopic, Biochemical and Computational Approaches\, Marine Biological Laboratory, Woods Hole MA.\medskip\
-\ \ \ \ \ \ \ \ \ \ Course Directors: Amy Gladfelter, Cliff Braggwynne\
-\ \ \ \ \ \ \ \ \ \ Rotation Advisors: Stephan Grill, Manu Prakash
+# Education
+
+*2024* **Course Attendee**, Physiology: Modern Cell Biology Using Microscopic, Biochemical and Computational Approaches\, Marine Biological Laboratory, Woods Hole MA.\medskip\
+\ \ \ \ \ Course Directors: Amy Gladfelter, Ph.D., Cliff Braggwynne, Ph.D.\
+\ \ \ \ \ Rotation Advisors: Stephan Grill, Ph.D., Manu Prakash, Ph.D.
 
 *2015---2023*    **Ph.D.**, Biomedical Informatics, University of
 California, San Francisco\medskip\
-\ \ \ \ \ \ \ \ \ \ Thesis: “Neutrophils actively swell to potentiate rapid migration”\
-\ \ \ \ \ \ \ \ \ \ Advisor: [Orion D. Weiner, Ph.D.](https://weinerlab.com)
+\ \ \ \ \ Thesis: “Neutrophils actively swell to potentiate rapid migration”\
+\ \ \ \ \ Advisor: [Orion D. Weiner, Ph.D.](https://weinerlab.com)
 
 *2011---2015* **B.S.** in Chemistry, **B.S.** in Mathematical Sci, University of
 Kentucky, Lexington
@@ -37,7 +38,7 @@ Kentucky, Lexington
 
 # Research Interests
 
-Cellular Decision Making; Collective Intelligence; Nonequilibrium Dynamics; Information Propagation; Tissue Regeneration;
+Cellular Decision Making; Collective Intelligence; Nonequilibrium Dynamics; Information Propagation; Tissue Regeneration; Cellular Motility
 
 
 # Selected Awards & Grants
@@ -54,6 +55,9 @@ Cellular Decision Making; Collective Intelligence; Nonequilibrium Dynamics; Info
 
 
 # Publications
+
+De Belly, H., Gallen, A.F., Strickland, E., Estrada, D.C., Zager, P.J., **Nagy, T. L.**, Burkhardt, J.K., Turlier, H., Weiner, O.D. (2025). Long range mutual activation establishes Rho and Rac polarity during cell migration. *bioRxiv*. <https://doi.org/10.1101/2024.10.01.616161>.\
+\ \ \ \ \ \ \ \ \ \ Preprint (Submitted).
 
 **Nagy, T.L.**, Strickland, E., and Weiner, O.D. (2024). Neutrophils actively swell to potentiate
 rapid migration. *Elife* 12. <https://doi.org/10.7554/eLife.90551>.\
@@ -82,7 +86,9 @@ fusion protein transmembrane domain contributes to pre-fusion protein stability.
 
 # Mentorship
 
+*2025---* Mentor to Samuel Adubofour (Undergraduate COMPASS student)\
 *2024---2025* Mentor to Yutzil Herrera (Undergraduate COMPASS student)\
+*Spring 2025* Mentor to Candace Wang (UCLA MSTP Student)\
 *Winter 2022* Rotation Advisor to Sneha Rao (UCSF DSCB Student)\
 *Fall 2018* Rotation Advisor to Evelyn Strickland (UCSF Biophysics Student)
 
