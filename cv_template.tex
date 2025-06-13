@@ -6,13 +6,14 @@ $else$
 \usepackage{fbb}
 \usepackage[libertine]{newtxmath}
 \usepackage[italic]{mathastext}
+\usepackage[dvipsnames]{xcolor}
 \MTsetmathskips{f}{5mu}{1mu}
 $endif$
 $if(linestretch)$
 \usepackage{setspace}
 \setstretch{$linestretch$}
 $endif$
-\usepackage{amssymb,amsmath}
+\usepackage{amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
@@ -228,9 +229,10 @@ $endif$
             pdftitle={Tamas Nagy CV}, 
             pdfsubject={Tamas Nagy's Curriculum Vitae}, 
             colorlinks=true, 
-            citecolor=blue, 
-            urlcolor=Purple, 
-            linkcolor=purple}
+            filecolor=WildStrawberry,
+            citecolor=WildStrawberry, 
+            urlcolor=WildStrawberry, 
+            linkcolor=WildStrawberry}
 \newdateformat{mydate}{\THEDAY \ \monthname[\THEMONTH] \THEYEAR}
 
 \Huge{Tamas L. Nagy}\\

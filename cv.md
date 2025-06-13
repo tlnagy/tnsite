@@ -5,53 +5,59 @@ fontsize: 12pt
 permalink: /cv/
 ---
 
-University of California, San Francisco \
-Cardiovascular Research Building, Room 384, MC 3120\
-555 Mission Bay Blvd. South\
-San Francisco, CA 94158-9001
+University of California, Los Angeles \
+615 Charles E Young Dr S\
+BSRB Rm 454
+Los Angeles, CA 90095
 
 
 Email: iam [at] tamasnagy.com\
-Twitter: [\@tlngy](https://twitter.com/tlngy)\
 Website: <https://tamasnagy.com>
 
 
 # Education
 
-*2015---*    Graduate student, Biomedical Informatics, University of
-California, San Francisco
+*2023---* **Postdoctoral Scholar**, Neurology, Univ. of
+California, Los Angeles\medskip\
+\ \ \ \ \ \ \ Topic: "How do Satellite Cells Count? Information Processing in Motile Cellular Collectives"\
+\ \ \ \ \ Advisor: [Thomas A. Rando, Ph.D.](https://randolab.healthsciences.ucla.edu/)
 
-*2011---2015* B.S. in Chemistry, B.S. in Mathematics, University of
+*2024* **Attendee**, Physiology: Modern Cell Biology Using Microscopic, Biochemical and Computational Approaches\, Marine Biological Laboratory, Woods Hole MA.\medskip\
+\ \ \ \ \ \ \ \ \ \ Course Directors: Amy Gladfelter, Cliff Braggwynne\
+\ \ \ \ \ \ \ \ \ \ Rotation Advisors: Stephan Grill, Manu Prakash
+
+*2015---2023*    **Ph.D.**, Biomedical Informatics, University of
+California, San Francisco\medskip\
+\ \ \ \ \ \ \ \ \ \ Thesis: “Neutrophils actively swell to potentiate rapid migration”\
+\ \ \ \ \ \ \ \ \ \ Advisor: [Orion D. Weiner, Ph.D.](https://weinerlab.com)
+
+*2011---2015* **B.S.** in Chemistry, **B.S.** in Mathematical Sci, University of
 Kentucky, Lexington
 
 
 # Research Interests
 
-Systems Biology & Computational Biology; Machine Vision; Cell-to-Cell
-Heterogeneity and Cell Decision Making; Data Visualization
+Cellular Decision Making; Collective Intelligence; Nonequilibrium Dynamics; Information Propagation; Tissue Regeneration;
 
 
-# Awards & Grants
+# Selected Awards & Grants
 
-*2017* **Graduate Division TA Award**, University of California, San Francisco
+*2024---* **LLHF Fellowship Grant**, Larry L. Hillblom Foundation, Sonoma, CA ($225,000)
 
-*2017* **Moritz-Heyman Discovery Fellow**, University of California, San Francisco
+*2017---2020* **Moritz-Heyman Discovery Fellow**, University of California, San Francisco
 
-*2015* **NSF Graduate Research Fellow**, National Science Foundation
+*2015---2020* **NSF Graduate Research Fellow**, National Science Foundation (~$110,000)
 
-*2014* **Undergraduate Research Abroad Scholar** w/Lucas Pelkmans,
-University of Zurich
+*2013* **AMGEN/CRSB Fellow** w/Jennifer Doudna, University of California, Berkeley
 
-*2013* **AMGEN/CRSB Fellow** w/Jennifer Doudna, University of
-California, Berkeley
-
-*2012* **Chellgren Fellow**, University of Kentucky
-
-*2011* **Otis A. Singletary Scholar**, University of Kentucky
-(Tuition, Board, & stipend)
+*2011---2015* **Otis A. Singletary Scholar**, University of Kentucky (Tuition, Board, & stipend)
 
 
 # Publications
+
+**Nagy, T.L.**, Strickland, E., and Weiner, O.D. (2024). Neutrophils actively swell to potentiate
+rapid migration. *Elife* 12. <https://doi.org/10.7554/eLife.90551>.\
+\ \ \ \ \ \ \ \ \ \ **Editorial assessment: Fundamental and compelling**
 
 Graziano, B. R., Town, J. P., Sitarska, E., **Nagy, T. L.**, Fošnarič, M., Penič, S., 
 Iglič, A., Kralj-Iglič, V., Gov, N. S., Diz-Muñoz, A., & Weiner, O. D. (2019). Cell 
@@ -62,6 +68,10 @@ Saha, S., **Nagy, T. L.** & Weiner, O. D. Joining forces: crosstalk between
 biochemical signalling and physical forces orchestrates cellular polarity and
 dynamics. *Philos. Trans. R. Soc. Lond. B Biol. Sci.* 373, (2018). <https://doi.org/10.1098/rstb.2017.0145>
 
+Mavor, D., Barlow, K.A.,..., **Nagy, T.L.**,..., et al. (2018). Extending chemical perturbations
+of the ubiquitin fitness landscape in a classroom setting reveals new constraints on sequence
+tolerance. *Biol. Open* 7. <https://doi.org/10.1242/bio.036103>.
+
 **Nagy, T.** & Kampmann, M. CRISPulator: a discrete simulation tool for pooled 
 genetic screens. *BMC Bioinformatics* 18, 347 (2017). <https://doi.org/10.1186/s12859-017-1759-9>
 
@@ -70,58 +80,75 @@ fusion protein transmembrane domain contributes to pre-fusion protein stability.
 *J. Biol. Chem.* (2017). <https://doi.org/10.1074/jbc.M117.777235>
 
 
-# Software
+# Mentorship
 
-I develop or maintain the following open-source libraries:
+*2024---2025* Mentor to Yutzil Herrera (Undergraduate COMPASS student)\
+*Winter 2022* Rotation Advisor to Sneha Rao (UCSF DSCB Student)\
+*Fall 2018* Rotation Advisor to Evelyn Strickland (UCSF Biophysics Student)
 
-- [`Gadfly.jl`](https://github.com/GiovineItalia/Gadfly.jl): Premier grammar of
-  graphics library in the Julia language
-- [`Weave.jl`](https://github.com/mpastell/Weave.jl): Literate programming
-  environment for Julia; generate reproducible scientific reports
-- [`Crispulator.jl`](https://github.com/tlnagy/Crispulator.jl): Simulation tool
-  for designing pooled CRISPR screens
-- [`OMETIFF.jl`](https://github.com/tlnagy/OMETIFF.jl): Read and interact with
-  high-dimensional images
-- [`jekyll-lab-notebook`](https://github.com/tlnagy/jekyll-lab-notebook):
-  Simple and flexible electronic lab notebook based on the Jekyll static site generator
+# Selected Talks & Posters
 
+*2025* **Poster** "How do Muscle Stem Cells Count? Information Propagation
+in Motile Cellular Collectives", Gordon Research Conference on Directed Cell Migration, Barga, Italy
 
-# Talks & Posters
+*2023* **Talk** "Neutrophils actively swell to potentiate their migration"
+American Society for Cell Biology Meeting, Boston, MA
 
-*2020* "Leveraging Julia for Data Science", invited speaker, 2020 Computational Biology 
+*2023* **Poster** "Immune cells actively increase their volumes to facilitate migration"
+UCSF Cardiovascular Research Institute Departmental Retreat, Santa Cruz, CA\
+\ \ \ \ \ \ \ \ \ \ [**\*\*Best Poster Award\*\***](a)
+
+*2023* **Poster** "Immune cells actively increase their volumes to facilitate migration"
+Gordon Research Conference on Directed Cell Migration, Galveston, TX
+
+*2022* **Poster** "Dissecting the role of regulatory volume changes in neutrophil chemotaxis"
+66th Annual Meeting of the Biophysical Society, San Francisco, CA\
+\ \ \ \ \ \ \ \ \ \ [**\*\*Best Poster Award\*\***](a)
+
+*2020* **Talk** "Leveraging Julia for Data Science", invited speaker, 2020 Computational Biology 
 Skills Seminar, UC Berkeley, remote
 
-*2019* "Dissecting the mechanistic basis of the chemoattractant-induced volume
+*2019* **Poster** "Dissecting the mechanistic basis of the chemoattractant-induced volume
 increase in neutrophils", 2019 Gordon Research Conference on Directed Cell 
 Migration, Galveston, TX
 
-*2018* "Dissecting the mechanistic basis of the chemoattractant-induced volume
+*2018* **Poster** "Dissecting the mechanistic basis of the chemoattractant-induced volume
 increase in neutrophils", 2018 Ion Channels & Immunity Symposium, NYU Langone
 Health, New York City, NY
 
-*2018* "Active control of cell volume during immune cell migration", 2018
+*2018* **Poster** "Active control of cell volume during immune cell migration", 2018
 Training Grantees Meeting, National Institute of Biomedical Imaging and
 Bioengineering, Bethesda, MD
 
-*2016* "Leveraging CRISPR for Precision Biology", Workshop with Jacob Corn and
+*2016* **Talk** "Leveraging CRISPR for Precision Biology", Workshop with Jacob Corn and
 Martin Kampmann, American Society for Cell Biology Annual Meeting, San Francisco,
 CA
 
-*2014* "Investigating the Expanding Role of Transmembrane Domains in
-Enveloped Virus Entry," Bioinformatics Summit, UT-KBRIN, Lake Barkley, KY
-
-*2014* "Investigating Common Transmembrane Motifs in Enveloped Virus
-Entry," National Conference of Undergraduate Research, Lexington, KY
-
-*2013* "Engineered CRISPR/Cas-based System for RNA-guided, Tag-less,
+*2013* **Talk** "Engineered CRISPR/Cas-based System for RNA-guided, Tag-less,
 Spatiotemporal Imaging of Endogeneous RNA," AMGEN symposium, Berkeley, CA
 
+# Software
+
+I regularly develop and release open-source software as part of my work, some of my most
+substantial packages are highlighted below
+
+- [`TiffImages.jl`](https://github.com/tlnagy/TiffImages.jl): A high performance, extensible 
+reader and writer for TIFF images in Julia
+- [`OMETIFF.jl`](https://github.com/tlnagy/OMETIFF.jl): Read and interact with
+  high-dimensional images
+- [`Crispulator.jl`](https://github.com/tlnagy/Crispulator.jl): Simulation tool
+  for designing pooled CRISPR screens
 
 # Service
 
+*2023---2025* Co-Chair, 2025 Directed Cell Migration Gordon Research Seminar
+
+*2017—--2019* iPQB Graduate Student Admissions Interviewer and Committee Member, UCSF
+
 *2018* Teaching Assistant, Algorithms, University of California, San Francisco
 
-*2017* Teaching Assistant, Algorithms, University of California, San Francisco
+*2017* Teaching Assistant, Algorithms, University of California, San Francisco\
+\ \ \ \ \ \ \ \ \ \ [**\*\*UCSF Graduate Division Teaching Award\*\***](a)
 
 *2014* Teaching Assistant, Organic Chemistry II, University of Kentucky
 
@@ -132,20 +159,14 @@ Spatiotemporal Imaging of Endogeneous RNA," AMGEN symposium, Berkeley, CA
 
 # References (Alphabetical)
 
-Steven J. Altschuler, UCSF, steven.altschuler [at] ucsf.edu
+Fred Chang, UCSF, fred.chang [at] ucsf.edu
 
-Jennifer A. Doudna, UC Berkeley, doudna [at] berkeley.edu
+Amy Gladfelter, Duke University, amy.gladfelter [at] duke.edu
 
-Rebecca E. Dutch, University of Kentucky, rdutc2 [at] uky.edu
-
-Jerzy Jaromczyk, University of Kentucky, jurek [at] cs.uky.edu
+Stephan Grill, Max Planck Institute of Molecular Cell Biology and Genetics, grill [at] mpi-cbg.de
 
 Martin Kampmann, UCSF, martin.kampmann [at] ucsf.edu
 
-Hunter Moseley, University of Kentucky, hunter.moseley [at] uky.edu
-
-Lucas Pelkmans, University of Zurich, lucas.pelkmans [at] imls.uzh.ch
+Thomas A Rando, UCLA, TRando [at] mednet.ucla.edu
 
 Orion Weiner, UCSF, orion.weiner [at] ucsf.edu
-
-Lani Wu, UCSF, lani.wu [at] ucsf.edu
