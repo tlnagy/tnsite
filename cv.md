@@ -56,8 +56,8 @@ Cellular Decision Making; Collective Intelligence; Nonequilibrium Dynamics; Info
 
 # Publications
 
-De Belly, H., Gallen, A.F., Strickland, E., Estrada, D.C., Zager, P.J., **Nagy, T. L.**, Burkhardt, J.K., Turlier, H., Weiner, O.D. (2025). Long range mutual activation establishes Rho and Rac polarity during cell migration. *bioRxiv*. <https://doi.org/10.1101/2024.10.01.616161>.\
-\ \ \ \ \ \ \ \ \ \ Preprint (Submitted).
+De Belly, H., Gallen A.F., Strickland, E., Estrada, D.C., Godinez DS, Neiva E, Zager, P.J., **Nagy, T. L.**, Burkhardt, J.K., Turlier, H., Weiner, O.D. (2026). Long-range mutual activation establishes Rho and Rac polarity during cell migration. *Nat Cell Biol*. 2026 Jun 10 [cited 2026 Jun 16];1–14. Available from: <http://dx.doi.org/10.1038/s41556-026-01965-1>
+
 
 **Nagy, T.L.**, Strickland, E., and Weiner, O.D. (2024). Neutrophils actively swell to potentiate
 rapid migration. *Elife* 12. <https://doi.org/10.7554/eLife.90551>.\
@@ -94,10 +94,18 @@ fusion protein transmembrane domain contributes to pre-fusion protein stability.
 
 # Selected Talks & Posters
 
+*2026* **Selected Talk** "Achieving precision in multicellular collectives," Physics of Life Symposium, Biohub, San Francisco, CA
+
+*2026* **Poster** "The Role of Notch Oscillatory Synchronization in the Stem Cell Self-Renewal Decision", Dynamics and Encoding in Cell Signaling FASEB, Nashville, TN\
+\ \ \ \ \ \ \ \ \ \ [**\*\*Best Poster Award\*\***](a)
+
+*2025* **Talk** "Investigating the role of intercellular oscillatory signal synchronization in the decline of stem cell self-renewal with age", LLHF Annual Symposium, Palm Springs, CA\
+\ \ \ \ \ \ \ \ \ \ [**\*\*Best Talk Award\*\***](a)
+
 *2025* **Poster** "How do Muscle Stem Cells Count? Information Propagation
 in Motile Cellular Collectives", Gordon Research Conference on Directed Cell Migration, Barga, Italy
 
-*2023* **Talk** "Neutrophils actively swell to potentiate their migration"
+*2023* **Selected Talk** "Neutrophils actively swell to potentiate their migration"
 American Society for Cell Biology Meeting, Boston, MA
 
 *2023* **Poster** "Immune cells actively increase their volumes to facilitate migration"
